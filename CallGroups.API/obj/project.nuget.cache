@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxhHdEFdPJHL2LWBidVMTlWadEkZORbU9uMcMKGTTdNv75+osCBxd3YOtGjLBcUgFmwIXHVwIQ3lrlKIszFTBA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Net\\CallGroups\\CallGroups.API\\CallGroups.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Fernandez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandez\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandez\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
