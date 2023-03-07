@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CallGroups.API",
+    "\\CallGroups.Common",
+    "\\CallGroups.Common\\Entities",
+    "\\CallGroups.Common\\Entities\\Commons",
+    "\\CallGroups.Web",
+    "\\CallGroups.Web\\Pages"
+  ],
+  "SelectedNode": "\\CallGroups.API\\appsettings.Development.json",
+  "PreviewInSolutionExplorer": false
+}

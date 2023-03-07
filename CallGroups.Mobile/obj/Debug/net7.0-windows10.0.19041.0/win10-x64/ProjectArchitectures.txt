@@ -1,0 +1,1 @@
+D:\Projects\Net\CallGroups\CallGroups.Mobile\CallGroups.Mobile.csproj;x64
